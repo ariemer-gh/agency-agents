@@ -21,5 +21,10 @@
   },
   "enabledPlugins": {
     "claude-mem@thedotmack": true
+  },
+  "permissions": {
+    "allow": [
+      "mcp__plugin_claude-mem_mcp-search"
+    ]
   }
 }
