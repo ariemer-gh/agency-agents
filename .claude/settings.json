@@ -10,5 +10,16 @@
         ]
       }
     ]
+  },
+  "extraKnownMarketplaces": {
+    "thedotmack": {
+      "source": {
+        "source": "github",
+        "repo": "ariemer-gh/claude-mem"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "claude-mem@thedotmack": true
   }
 }
